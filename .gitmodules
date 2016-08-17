@@ -290,3 +290,7 @@
 	path = event
 	url = https://github.com/OCA/event.git
 	branch = 8.0
+[submodule "business-requirement"]
+	path = business-requirement
+	url = https://github.com/OCA/business-requirement.git
+	branch = 8.0
