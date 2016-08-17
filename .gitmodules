@@ -294,3 +294,89 @@
 	path = business-requirement
 	url = https://github.com/OCA/business-requirement.git
 	branch = 8.0
+[submodule "connector-magento-php-extension"]
+	path = connector-magento-php-extension
+	url = https://github.com/OCA/connector-magento-php-extension.git
+[submodule "connector-woocommerce"]
+	path = connector-woocommerce
+	url = https://github.com/OCA/connector-woocommerce.git
+	branch = 8.0
+[submodule "maintainer-quality-tools"]
+	path = maintainer-quality-tools
+	url = https://github.com/OCA/maintainer-quality-tools.git
+[submodule "maintainer-tools"]
+	path = maintainer-tools
+	url = https://github.com/OCA/maintainer-tools.git
+[submodule "oca-custom"]
+	path = oca-custom
+	url = https://github.com/OCA/oca-custom.git
+	branch = 8.0
+[submodule "odoo-ocb"]
+	path = odoo-ocb
+	url = https://github.com/OCA/OCB.git
+	branch = 8.0
+[submodule "odoo-sphinx-autodoc"]
+	path = odoo-sphinx-autodoc
+	url = https://github.com/OCA/odoo-sphinx-autodoc.git
+[submodule "openupgrade"]
+	path = openupgrade
+	url = https://github.com/OCA/OpenUpgrade.git
+	branch = 8.0
+[submodule "openupgradelib"]
+	path = openupgradelib
+	url = https://github.com/OCA/openupgradelib.git
+[submodule "pylint-odoo"]
+	path = pylint-odoo
+	url = https://github.com/OCA/pylint-odoo.git
+[submodule "runbot-addons"]
+	path = runbot-addons
+	url = https://github.com/OCA/runbot-addons.git
+	branch = 8.0
+[submodule "vertical-isp"]
+	path = vertical-isp
+	url = https://github.com/OCA/vertical-isp.git
+	branch = 8.0
+[submodule "vertical-association"]
+	path = vertical-association
+	url = https://github.com/OCA/vertical-association.git
+	branch = 8.0
+[submodule "vertical-medical"]
+	path = vertical-medical
+	url = https://github.com/OCA/vertical-medical.git
+	branch = 8.0
+[submodule "vertical-travel"]
+	path = vertical-travel
+	url = https://github.com/OCA/vertical-travel.git
+	branch = 8.0
+[submodule "vertical-ngo"]
+	path = vertical-ngo
+	url = https://github.com/OCA/vertical-ngo.git
+	branch = 8.0
+[submodule "vertical-hotel"]
+	path = vertical-hotel
+	url = https://github.com/OCA/vertical-hotel.git
+	branch = 8.0
+[submodule "vertical-education"]
+	path = vertical-education
+	url = https://github.com/OCA/vertical-education.git
+	branch = 8.0
+[submodule "vertical-edition"]
+	path = vertical-edition
+	url = https://github.com/OCA/vertical-edition.git
+	branch = 8.0
+[submodule "vertical-construction"]
+	path = vertical-construction
+	url = https://github.com/OCA/vertical-construction.git
+	branch = 8.0
+[submodule "vertical-community"]
+	path = vertical-community
+	url = https://github.com/OCA/vertical-community.git
+	branch = 8.0
+[submodule "vertical-agriculture"]
+	path = vertical-agriculture
+	url = https://github.com/OCA/vertical-agriculture.git
+	branch = 8.0
+[submodule "vertical-abbey"]
+	path = vertical-abbey
+	url = https://github.com/OCA/vertical-abbey.git
+	branch = 8.0
