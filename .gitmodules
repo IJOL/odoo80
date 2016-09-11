@@ -311,20 +311,9 @@
 	path = oca-custom
 	url = https://github.com/OCA/oca-custom.git
 	branch = 8.0
-[submodule "odoo-ocb"]
-	path = odoo-ocb
-	url = https://github.com/OCA/OCB.git
-	branch = 8.0
 [submodule "odoo-sphinx-autodoc"]
 	path = odoo-sphinx-autodoc
 	url = https://github.com/OCA/odoo-sphinx-autodoc.git
-[submodule "openupgrade"]
-	path = openupgrade
-	url = https://github.com/OCA/OpenUpgrade.git
-	branch = 8.0
-[submodule "openupgradelib"]
-	path = openupgradelib
-	url = https://github.com/OCA/openupgradelib.git
 [submodule "pylint-odoo"]
 	path = pylint-odoo
 	url = https://github.com/OCA/pylint-odoo.git
