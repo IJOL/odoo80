@@ -377,3 +377,7 @@
 	path = odoomrp-utils
 	url = https://github.com/odoomrp/odoomrp-utils.git
 	branch = 8.0
+[submodule "odoo-extra"]
+	path = odoo-extra
+	url = https://github.com/odoo/odoo-extra.git
+	branch = 8.0
