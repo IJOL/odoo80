@@ -72,7 +72,7 @@
 	branch = 8.0
 [submodule "carrier-delivery"]
 	path = carrier-delivery
-	url = https://github.com/OCA/carrier-delivery.git
+	url = https://github.com/IJOL/carrier-delivery.git
 	branch = 8.0
 [submodule "report-print-send"]
 	path = report-print-send
