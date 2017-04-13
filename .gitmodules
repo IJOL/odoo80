@@ -381,3 +381,6 @@
 	path = odoo-extra
 	url = https://github.com/odoo/odoo-extra.git
 	branch = 8.0
+[submodule "ingadhoc-reporting-engine"]
+	path = ingadhoc-reporting-engine
+	url = https://github.com/IJOL/reporting-engine.git
