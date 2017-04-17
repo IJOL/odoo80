@@ -72,7 +72,7 @@
 	branch = 8.0
 [submodule "carrier-delivery"]
 	path = carrier-delivery
-	url = https://github.com/OCA/carrier-delivery.git
+	url = https://github.com/IJOL/carrier-delivery.git
 	branch = 8.0
 [submodule "report-print-send"]
 	path = report-print-send
@@ -371,7 +371,7 @@
 	branch = 8.0
 [submodule "odoomrp-wip"]
 	path = odoomrp-wip
-	url = https://github.com/odoomrp/odoomrp-wip.git
+	url = https://github.com/IJOL/odoomrp-wip.git
 	branch = 8.0
 [submodule "odoomrp-utils"]
 	path = odoomrp-utils
@@ -381,3 +381,6 @@
 	path = odoo-extra
 	url = https://github.com/odoo/odoo-extra.git
 	branch = 8.0
+[submodule "ingadhoc-reporting-engine"]
+	path = ingadhoc-reporting-engine
+	url = https://github.com/IJOL/reporting-engine.git
